@@ -15,6 +15,9 @@
 # production
 /build
 
+# intelljie idea
+/.idea/
+
 # misc
 .DS_Store
 *.pem
